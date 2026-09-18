@@ -1,4 +1,4 @@
-name: CI/CD to AWS
+name: CI/CD to AWS.
 
 on:
   push:
